@@ -12,7 +12,7 @@ hi, i'm [GGTNT](https://tnt07.ga/), I am a programming enthusiast, constantly lo
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/GGTNT/GGTNT/master/code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/GGTNT/GGTNT/master/code.gif" width="400" height="320" />
   
 - 💬 ask me about anything, i am happy to help;
 
@@ -37,18 +37,6 @@ Bash     30 mins         ▒░░░░░░░░░░░░░░░░░�
 JSON     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 CSS      30 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   20.94 %
 ```
-
-<!--END_SECTION:waka-->
-
-
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
