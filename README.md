@@ -11,8 +11,6 @@ hi, i'm [GGTNT](https://tnt07.ga/), I am a programming enthusiast, constantly lo
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/GGTNT/GGTNT/master/code.gif" width="250" height="250" />
   
 - 💬 ask me about anything, i am happy to help;
 
