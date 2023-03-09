@@ -7,7 +7,7 @@
 
 <br />
 
-hi, i'm [GGTNT](https://tnt07.ga/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [GGTNT](https://tnt07.ga/), I am a programming enthusiast, constantly looking for new challenges. My favorite languages are Python and Java, which I regularly use to create applications and solve complex problems. I enjoy exploring the latest programming technologies and trends to continue to hone my skills and stay on the cutting edge of my field.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -31,11 +31,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ```text
 Python   20 hrs 9 mins   ██████████████████▒░░░░░░   80.00 %
-Java   10 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-YAML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Bash         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-CSS          30 hrs 5 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Java     10 hrs 5 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
+YAML     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Bash     30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+JSON     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+CSS      30 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   20.94 %
 ```
 
 <!--END_SECTION:waka-->
@@ -53,7 +53,7 @@ CSS          30 hrs 5 mins         ▒░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GGTNT&show_icons=true&theme=merko" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GGTNT&show_icons=true&theme=cobalt" alt="GGTNT" />
 <!--
 **GGTNT/GGTNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
