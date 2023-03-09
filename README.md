@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm TNT and I love money
 ---
-My website : https:/tnt05.ga
+My website : https:/tnt07.ga
 
 My Discord profile : [TNT#0835](https://discord.com/users/665643863658201119)
 
