@@ -24,19 +24,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-Python   20 hrs 9 mins   ██████████████████▒░░░░░░   80.00 %
-Java     10 hrs 5 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-YAML     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Bash     30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-JSON     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-CSS      30 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   20.94 %
-```
-
-
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GGTNT&show_icons=true&theme=synthwave" alt="GGTNT" />
